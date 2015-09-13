@@ -7,3 +7,7 @@ Using GitHub as a tool to keep versions of my resume for easy reversion/comparis
 ### Employers
 
 Please see Resume - 2 for the latest version of my resume
+
+### Issues
+
+If you experience issues with the word files incorrectly rendering please disable "Protected View"
