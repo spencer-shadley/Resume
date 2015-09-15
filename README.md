@@ -10,7 +10,7 @@ Please see Resume - 2 for the latest version of my resume
 
 ### Issues
 
-If you experience issues with the word files incorrectly rendering please disable "Protected View"
+If you experience issues with the word files incorrectly rendering please disable "Protected View" or use Resume - 2.pdf
 
 ### LinkedIn
 [My Profile](https://www.linkedin.com/in/spencershadley)
