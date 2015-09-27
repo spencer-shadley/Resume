@@ -6,7 +6,7 @@ This repo is to keep versions of my resume for easy reversion/comparison and as 
 
 ### Employers
 
-Please see Resume - 2 for the latest version of my resume
+Please see Resume.pdf or Resume.docx for the latest version of my resume
 
 ### Issues
 
