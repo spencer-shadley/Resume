@@ -16,8 +16,6 @@ If you experience issues with the word files incorrectly rendering please disabl
 
 ### More About Me
 
-[LinkedIn](https://www.linkedin.com/in/spencershadley)
-
-[Portfolio](http://spencer-shadley.github.io/)
-
-[More Repos](https://github.com/spencer-shadley?tab=repositories)
+ - [LinkedIn](https://www.linkedin.com/in/spencershadley)
+ - [Portfolio](http://spencer-shadley.github.io/)
+ - [More Repos](https://github.com/spencer-shadley?tab=repositories)
