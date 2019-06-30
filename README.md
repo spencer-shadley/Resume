@@ -8,11 +8,11 @@
 
 ### Employers
 
-Please see Resume.pdf or Resume.docx for the latest version of my resume
+Please see [SpencerShadleyResume.pdf](SpencerShadleyResume.pdf) or [SpencerShadleyResume.docx](SpencerShadleyResume.docx) for the latest version of my resume
 
 ### Issues
 
-If you experience issues with the word files incorrectly rendering please disable "Protected View" or use Resume.pdf
+If you experience issues with the word files incorrectly rendering please disable "Protected View" or open [SpencerShadleyResume.pdf](SpencerShadleyResume.pdf)
 
 ### More About Me
 
