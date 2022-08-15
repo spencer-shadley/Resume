@@ -1,0 +1,15 @@
+{
+  "name": "markdownresume",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "gen-resume": "gen-resume.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "html-pdf": "^3.0.1",
+    "marked": "^4.0.18"
+  }
+}
