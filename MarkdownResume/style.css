@@ -1,3 +1,7 @@
 ul {
     color: yellowgreen;
 }
+
+h1 {
+    color: blue !important;
+}
