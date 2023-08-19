@@ -1,0 +1,21 @@
+# Resume Log
+
+- Image Rotation gRPC service
+  - Aug 18, 2023
+  - https://github.com/spencer-shadley/neuralink-go
+    - private
+  - Created gRPC service for rotating images and applying a mean filter
+  - Created as HW assignment from Neuralink
+  - First time using Golang
+- Presentation on Workbook Optimizer and Performance Journey
+  - Jul 19, 2023
+  - https://www.beautiful.ai/-NYpTkMYujEVglG8eii7
+  - Created presentation going into how I thought about performance at Tableau
+  - Order
+    - Intro to me
+    - Intro to perf (philosophy/why)
+    - Categories of perf work
+    - Perceived Performance
+    - Actual Performance
+    - Performance Transparency
+    - Retrospective
