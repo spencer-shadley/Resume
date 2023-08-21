@@ -1,5 +1,8 @@
 # Resume Log
 
+- Educative's Grokking Modern System Design Interview for Engineers & Managers
+  - In-progress
+  - https://www.educative.io/courses/grokking-modern-system-design-interview-for-engineers-managers/
 - Image Rotation gRPC service
   - Aug 18, 2023
   - https://github.com/spencer-shadley/neuralink-go
@@ -19,3 +22,8 @@
     - Actual Performance
     - Performance Transparency
     - Retrospective
+    - [Architecture](https://miro.com/app/board/uXjVM6lijMk=/?share_link_id=294328284619)
+  - Work Mindmap
+    - Jul 30, 2023
+    - https://miro.com/app/board/uXjVM6lijMk=/?share_link_id=294328284619
+    - Mindmap of my professional work
